@@ -335,7 +335,7 @@ class App extends Component {
                   <div className="row">
                     <div className="col-md-4">
                       <h6>GobNFT Max Supply
-                        <p>10,000,000</p>
+                        <p>210,000</p>
                       </h6>
                     </div>
                     <div className="col-md-4">
