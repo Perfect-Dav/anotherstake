@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner:wght@400;500;600;700&display=swap');
+
+.nftapp {
+    background-image: url('https://mint-goblins-on-doge.netlify.app/static/media/banner_bg_3.0259bf89.jpg');
+    text-align: center;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+
+.nftapp h4 {
+  color: #ffffff;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 36px;
+  margin-bottom: 30px;
+}
+
+.nftapp p {
+  margin-top: 10px;
+}
+
+.nftapp h6 {
+  margin-top: 20px;
+}
+
+.nftapp h5 {
+  margin-bottom: 25px;
+}
+
+.nftapp .action-btn {
+  background-color: #181f25 !important;
+  padding: 14px !important;
+  width: 126px !important;
+  max-width: 100%;
+  border: none !important;
+}
+
+.authorize {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+  font-weight: 800 !important;
+  border: none !important;
+  padding: 20px !important;
+  margin-bottom: 74px !important;
+}
+
+.card {
+  margin-bottom: 44px;
+}
