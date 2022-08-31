@@ -289,7 +289,7 @@ class App extends Component {
                   <div className="row">
                     <div className="col-md-6">
                     <div>
-                    <h6>GobNFT Earned:</h6>
+                    <h6>GobToken Earned:</h6>
                     <p id="earned">--</p>
                     <div className="btn-group" role="group" aria-label="btn-group">
                     <a href="#/" onClick={rewardinfo} class="btn action-btn btn-primary">Check Reward</a>
@@ -319,7 +319,7 @@ class App extends Component {
                     </div>
                     <div className="col-md-4">
                       <h6>Daily rewards
-                        <p>0.991 GobNFT</p>
+                        <p>0.01 GobToken</p>
                       </h6>
                     </div>
                     <div className="col-md-4">
