@@ -56,7 +56,7 @@ class App extends Component {
                     decimals: 18,
                     symbol: "DOGE",
                   },
-                  rpcUrls: ["https://rpc-sg.dogechain.dog"],
+                  rpcUrls: ["https://rpc-us.dogechain.dog"],
                 },
               ],
             });
